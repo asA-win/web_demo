@@ -1,0 +1,29 @@
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.env.local
+node_modules/
+
+# Python / Backend
+backend/venv/
+backend/.pytest_cache/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Environment Variables
+.env
+backend/.env
+
+# Logs and OS
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
